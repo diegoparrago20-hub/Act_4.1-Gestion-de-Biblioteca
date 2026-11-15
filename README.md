@@ -32,7 +32,7 @@ El programa permite realizar las siguientes operaciones:
 
 *Validaciones:* comprobar posiciones válidas y campos obligatorios.
 
-#Estructura del proyecto
+# Estructura del proyecto
 *Trabajo:* clase base que contiene los atributos generales de las publicaciones: título, autor y año de publicación.
 
 *Libro:* subclase de Trabajo que agrega el número de páginas.
